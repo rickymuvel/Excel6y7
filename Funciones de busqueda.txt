@@ -1,0 +1,7 @@
+que viene en el examen:
+Si Y, Si O.
+
+
+git add .
+git commit -m "Enviamos cambio #"
+git push origin master
